@@ -121,7 +121,7 @@ This repo covers (but is not limited to):
 | [Safety Devolution in AI Agents](https://openreview.net/pdf?id=7nJmuFFkWd) | ICLR Workshop (HAIC) | 2025 | AI Agents, Safety Devolution, Human-AI Coevolution |
 | [EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage](https://openreview.net/forum?id=xMOLUzo2Lk) | ICLR | 2025 | Environmental Injection Attack, Web Agents, Privacy Leakage |
 | [The Sum Leaks More Than Its Parts: Compositional Privacy Risks and Mitigations in Multi-Agent Collaboration](https://arxiv.org/pdf/2509.14284) | arXiv | 2025 | Multi-Agent Collaboration, Privacy Risk, Mitigation |
-| [Position: Trustworthy AI Agents Require the Integration of Large Language Models and Formal Methods](https://openreview.net/forum?id=wkisIZbntD) | ICML (PMLR 267) | 2025 | Trustworthy AI Agents, Formal Methods, LLMs |
+| [Position: Trustworthy AI Agents Require the Integration of Large Language Models and Formal Methods](https://openreview.net/forum?id=wkisIZbntD) | ICML | 2025 | Trustworthy AI Agents, Formal Methods, LLMs |
 | [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/pdf/2401.10019) | EMNLP | 2024 | LLM Agent, Privacy, Search, AI Risk |
 | [AGENTPOISON: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases](https://openreview.net/forum?id=Y841BRW9rY) | NeurIPS | 2024 | Red-Teaming, Memory Poisoning, Knowledge Base Poisoning, LLM Agents |
 | [Attractive Metadata Attack: Inducing LLM Agents to Invoke Malicious Tools](https://openreview.net/pdf?id=oLGtPYdRzU) | NeurIPS | 2025 | Attractive Metadata Attack, Tool Metadata Manipulation, LLM Agent Security |
