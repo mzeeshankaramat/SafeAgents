@@ -116,6 +116,7 @@ This repo covers (but is not limited to):
 | [MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents](https://openreview.net/pdf?id=irxxkFMrry) | ICLR | 2026 | Model Context Protocol Security, LLM Agnt Attack, Benchmark Evaluation |
 | [ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents](https://openreview.net/pdf?id=WVhgFSKniL) | ICLR | 2026 | Large Language Model, Prompt Injection Attack, LLM Agent |
 | [RealSafe: Quantifying Safety Risks of Language Agents in Real-World](https://aclanthology.org/2025.coling-main.642.pdf) | ACL | 2025 | LLM Agent, Safety |
+| [ALIGNED LLMS ARE NOT ALIGNED BROWSER AGENTS](https://openreview.net/forum?id=NsFZZU9gvk) | ICLR | 2025 | Aligned LLMs, Browser Agents, Agent Safety |
 | [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/pdf/2401.10019) | EMNLP | 2024 | LLM Agent, Privacy, Search, AI Risk |
 | [Attractive Metadata Attack: Inducing LLM Agents to Invoke Malicious Tools](https://openreview.net/pdf?id=oLGtPYdRzU) | NeurIPS | 2025 | Attractive Metadata Attack, Tool Metadata Manipulation, LLM Agent Security |
 | [AgentAuditor: Human-level Safety and Security Evaluation for LLM Agents](https://openreview.net/pdf?id=2KKqp7MWJM) | NeurIPS | 2025 | Agent Safety, Agent Security, LLM-as-a-Judge |
