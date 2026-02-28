@@ -117,11 +117,31 @@ This repo covers (but is not limited to):
 | [ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents](https://openreview.net/pdf?id=WVhgFSKniL) | ICLR | 2026 | Large Language Model, Prompt Injection Attack, LLM Agent |
 | [RealSafe: Quantifying Safety Risks of Language Agents in Real-World](https://aclanthology.org/2025.coling-main.642.pdf) | ACL | 2025 | LLM Agent, Safety |
 | [ALIGNED LLMS ARE NOT ALIGNED BROWSER AGENTS](https://openreview.net/forum?id=NsFZZU9gvk) | ICLR | 2025 | Aligned LLMs, Browser Agents, Agent Safety |
+| [Can We Trust Embodied Agents? Exploring Backdoor Attacks Against Embodied LLM-based Decision-making Systems](https://openreview.net/pdf?id=S1Bv3068Xt) | ICLR | 2025 | Embodied Agents, Backdoor Attack, LLM-based Decision-Making |
+| [Safety Devolution in AI Agents](https://openreview.net/pdf?id=7nJmuFFkWd) | ICLR Workshop (HAIC) | 2025 | AI Agents, Safety Devolution, Human-AI Coevolution |
+| [EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage](https://openreview.net/forum?id=xMOLUzo2Lk) | ICLR | 2025 | Environmental Injection Attack, Web Agents, Privacy Leakage |
+| [The Sum Leaks More Than Its Parts: Compositional Privacy Risks and Mitigations in Multi-Agent Collaboration](https://arxiv.org/pdf/2509.14284) | arXiv | 2025 | Multi-Agent Collaboration, Privacy Risk, Mitigation |
+| [Position: Trustworthy AI Agents Require the Integration of Large Language Models and Formal Methods](https://openreview.net/forum?id=wkisIZbntD) | ICML (PMLR 267) | 2025 | Trustworthy AI Agents, Formal Methods, LLMs |
 | [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/pdf/2401.10019) | EMNLP | 2024 | LLM Agent, Privacy, Search, AI Risk |
+| [AGENTPOISON: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases](https://openreview.net/forum?id=Y841BRW9rY) | NeurIPS | 2024 | Red-Teaming, Memory Poisoning, Knowledge Base Poisoning, LLM Agents |
 | [Attractive Metadata Attack: Inducing LLM Agents to Invoke Malicious Tools](https://openreview.net/pdf?id=oLGtPYdRzU) | NeurIPS | 2025 | Attractive Metadata Attack, Tool Metadata Manipulation, LLM Agent Security |
-| [AgentAuditor: Human-level Safety and Security Evaluation for LLM Agents](https://openreview.net/pdf?id=2KKqp7MWJM) | NeurIPS | 2025 | Agent Safety, Agent Security, LLM-as-a-Judge |
+| [AgentAuditor: Human-Level Safety and Security Evaluation for LLM Agents](https://neurips.cc/virtual/2025/loc/san-diego/poster/120154) | NeurIPS | 2025 | Agent Safety, Agent Security, LLM-as-a-Judge |
+| [DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents](https://neurips.cc/virtual/2025/loc/san-diego/poster/116028) | NeurIPS | 2025 | LLM Agents, Defense, Prompt Injection, Injection Isolation |
 | [Information Retrieval Induced Safety Degradation in AI Agents](https://openreview.net/pdf?id=2hiNrfMmQ7) | NeurIPS | 2025 | Responsible AI, LLM Agents, Safety, Bias |
 | [AgentBreeder: Mitigating the AI Safety Risks of Multi-Agent Scaffolds via Self-Improvement](https://openreview.net/pdf?id=mlU9KqdZUS) | NeurIPS | 2025 | AI Safety, Multi-Agent Systems, LLMs, Large Language Models, Jailbreaking, Agent Scaffolds |
+| [WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents](https://neurips.cc/virtual/2025/loc/san-diego/poster/119191) | NeurIPS | 2025 | World Alignment, NeuroSymbolic Learning, World Model-based Agents, LLM Agents |
+| [Emergent Risk Awareness in Rational Agents under Resource Constraints](https://openreview.net/pdf/b721f93c521d624000a1eedbe25a30f679087e56.pdf) | NeurIPS | 2025 | Rational Agents, Resource Constraints, Risk Awareness, Agent Safety |
+| [BREAKING AND FIXING DEFENSES AGAINST CONTROL-FLOW HIJACKING IN MULTI-AGENT SYSTEMS](https://arxiv.org/abs/2510.17276) | arXiv | 2025 | Multi-Agent Systems, Control-Flow Hijacking, Defense, Agent Security |
+| [MIP against Agent: Malicious Image Patches Hijacking Multimodal OS Agents](https://openreview.net/forum?id=ToNRHqX6xq) | NeurIPS | 2025 | Multimodal OS Agents, Adversarial Image Patches, Hijacking Attack, Agent Security |
+| [LLM-based Multi-Agents System Attack via Continuous Optimization with Discrete Efficient Search](https://openreview.net/forum?id=ED5diyzc1C#discussion) | COLM | 2025 | Multi-Agent Systems, Adversarial Attack, Continuous Optimization, Discrete Search |
+| [A Troublemaker with Contagious Jailbreak Makes Chaos in Honest Towns](https://aclanthology.org/2025.acl-long.859.pdf) | ACL | 2025 | Contagious Jailbreak, Multi-Agent Systems, LLM Agents, Agent Safety |
+| [Protecting Users From Themselves: Safeguarding Contextual Privacy in Interactions with Conversational Agents](https://aclanthology.org/2025.findings-acl.1343.pdf) | ACL | 2025 | Conversational Agents, Contextual Privacy, User Safety, Privacy Protection |
+| [CONVERSE: Benchmarking Contextual Safety in Agent-to-Agent Conversations](https://arxiv.org/pdf/2511.05359) | arXiv | 2025 | Agent-to-Agent Conversations, Contextual Safety, Benchmark, LLM Agents |
+| [AGENT TOOLS ORCHESTRATION LEAKS MORE: DATASET, BENCHMARK, AND MITIGATION](https://arxiv.org/pdf/2512.16310) | arXiv | 2025 | Tool Orchestration, Data Leakage, Benchmark, Mitigation |
+| [AgentSafe: Safeguarding Large Language Model-based Multi-agent Systems via Hierarchical Data Management](https://arxiv.org/pdf/2503.04392) | arXiv | 2025 | Multi-Agent Systems, Hierarchical Data Management, LLM Agents, Safety |
+| [AgentCrypt: Advancing Privacy and (Secure) Computation in AI Agent Collaboration](https://neurips.cc/virtual/2025/loc/san-diego/130200) | NeurIPS Workshop (Regulatable ML) | 2025 | Agent Collaboration, Privacy, Secure Computation, AI Agents |
+| [Topology Matters: Measuring Memory Leakage in Multi-Agent LLMs](https://arxiv.org/pdf/2512.04668) | arXiv | 2026 | Multi-Agent LLMs, Memory Leakage, Topology, Privacy |
+| [MAGPIE: A Benchmark for Multi-AGent Contextual PrIvacy Evaluation](https://openreview.net/pdf?id=vZgdho8Vx0) | NeurIPS Workshop (ResponsibleFM) | 2025 | Multi-Agent Systems, Contextual Privacy, Benchmark, Evaluation |
 
 
 
