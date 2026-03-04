@@ -115,6 +115,7 @@ This repo covers (but is not limited to):
 | [Breaking Agent Backbones: Evaluating the Security of Backbone LLMs in AI Agents](https://openreview.net/pdf?id=kga18ld70t) | ICLR | 2026 | AI security, Large Language Models, Security Benchmarks |
 | [MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents](https://openreview.net/pdf?id=irxxkFMrry) | ICLR | 2026 | Model Context Protocol Security, LLM Agnt Attack, Benchmark Evaluation |
 | [ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents](https://openreview.net/pdf?id=WVhgFSKniL) | ICLR | 2026 | Large Language Model, Prompt Injection Attack, LLM Agent |
+| [BEYOND JAILBREAKING: AUDITING CONTEXTUAL PRIVACY IN LLM AGENTS](https://openreview.net/pdf?id=6EDpNDns1i) | ICLR | 2026 | Contextual Privacy, LLM Agents, Privacy Auditing |
 | [RealSafe: Quantifying Safety Risks of Language Agents in Real-World](https://aclanthology.org/2025.coling-main.642.pdf) | ACL | 2025 | LLM Agent, Safety |
 | [ALIGNED LLMS ARE NOT ALIGNED BROWSER AGENTS](https://openreview.net/forum?id=NsFZZU9gvk) | ICLR | 2025 | Aligned LLMs, Browser Agents, Agent Safety |
 | [Can We Trust Embodied Agents? Exploring Backdoor Attacks Against Embodied LLM-based Decision-making Systems](https://openreview.net/pdf?id=S1Bv3068Xt) | ICLR | 2025 | Embodied Agents, Backdoor Attack, LLM-based Decision-Making |
@@ -125,6 +126,7 @@ This repo covers (but is not limited to):
 | [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/pdf/2401.10019) | EMNLP | 2024 | LLM Agent, Privacy, Search, AI Risk |
 | [AGENTPOISON: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases](https://openreview.net/forum?id=Y841BRW9rY) | NeurIPS | 2024 | Red-Teaming, Memory Poisoning, Knowledge Base Poisoning, LLM Agents |
 | [Attractive Metadata Attack: Inducing LLM Agents to Invoke Malicious Tools](https://openreview.net/pdf?id=oLGtPYdRzU) | NeurIPS | 2025 | Attractive Metadata Attack, Tool Metadata Manipulation, LLM Agent Security |
+| [AGENTDAM: Privacy Leakage Evaluation for Autonomous Web Agents](https://openreview.net/pdf?id=qaxf7q41aK) | NeurIPS | 2025 | Privacy Leakage, Autonomous Web Agents, Evaluation |
 | [AgentAuditor: Human-Level Safety and Security Evaluation for LLM Agents](https://neurips.cc/virtual/2025/loc/san-diego/poster/120154) | NeurIPS | 2025 | Agent Safety, Agent Security, LLM-as-a-Judge |
 | [DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents](https://neurips.cc/virtual/2025/loc/san-diego/poster/116028) | NeurIPS | 2025 | LLM Agents, Defense, Prompt Injection, Injection Isolation |
 | [Information Retrieval Induced Safety Degradation in AI Agents](https://openreview.net/pdf?id=2hiNrfMmQ7) | NeurIPS | 2025 | Responsible AI, LLM Agents, Safety, Bias |
@@ -140,6 +142,7 @@ This repo covers (but is not limited to):
 | [AGENT TOOLS ORCHESTRATION LEAKS MORE: DATASET, BENCHMARK, AND MITIGATION](https://arxiv.org/pdf/2512.16310) | arXiv | 2025 | Tool Orchestration, Data Leakage, Benchmark, Mitigation |
 | [AgentSafe: Safeguarding Large Language Model-based Multi-agent Systems via Hierarchical Data Management](https://arxiv.org/pdf/2503.04392) | arXiv | 2025 | Multi-Agent Systems, Hierarchical Data Management, LLM Agents, Safety |
 | [AgentCrypt: Advancing Privacy and (Secure) Computation in AI Agent Collaboration](https://neurips.cc/virtual/2025/loc/san-diego/130200) | NeurIPS Workshop (Regulatable ML) | 2025 | Agent Collaboration, Privacy, Secure Computation, AI Agents |
+| [PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training](https://arxiv.org/pdf/2602.13840v1) | arXiv | 2026 | Contextual Privacy, Multi-Agent Preference Training, Privacy Preservation |
 | [Topology Matters: Measuring Memory Leakage in Multi-Agent LLMs](https://arxiv.org/pdf/2512.04668) | arXiv | 2026 | Multi-Agent LLMs, Memory Leakage, Topology, Privacy |
 | [MAGPIE: A Benchmark for Multi-AGent Contextual PrIvacy Evaluation](https://openreview.net/pdf?id=vZgdho8Vx0) | NeurIPS Workshop (ResponsibleFM) | 2025 | Multi-Agent Systems, Contextual Privacy, Benchmark, Evaluation |
 
