@@ -143,6 +143,7 @@ This repo covers (but is not limited to):
 | [AgentSafe: Safeguarding Large Language Model-based Multi-agent Systems via Hierarchical Data Management](https://arxiv.org/pdf/2503.04392) | arXiv | 2025 | Multi-Agent Systems, Hierarchical Data Management, LLM Agents, Safety |
 | [AgentCrypt: Advancing Privacy and (Secure) Computation in AI Agent Collaboration](https://neurips.cc/virtual/2025/loc/san-diego/130200) | NeurIPS Workshop (Regulatable ML) | 2025 | Agent Collaboration, Privacy, Secure Computation, AI Agents |
 | [PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training](https://arxiv.org/pdf/2602.13840v1) | arXiv | 2026 | Contextual Privacy, Multi-Agent Preference Training, Privacy Preservation |
+| [Information-Theoretic Privacy Control for Sequential Multi-Agent LLM Systems](https://arxiv.org/pdf/2603.05520) | arXiv | 2026 | Information-Theoretic Privacy, Multi-Agent LLM Systems, Privacy Control |
 | [Topology Matters: Measuring Memory Leakage in Multi-Agent LLMs](https://arxiv.org/pdf/2512.04668) | arXiv | 2026 | Multi-Agent LLMs, Memory Leakage, Topology, Privacy |
 | [MAGPIE: A Benchmark for Multi-AGent Contextual PrIvacy Evaluation](https://openreview.net/pdf?id=vZgdho8Vx0) | NeurIPS Workshop (ResponsibleFM) | 2025 | Multi-Agent Systems, Contextual Privacy, Benchmark, Evaluation |
 
