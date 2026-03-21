@@ -116,6 +116,7 @@ This repo covers (but is not limited to):
 | [MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents](https://openreview.net/pdf?id=irxxkFMrry) | ICLR | 2026 | Model Context Protocol Security, LLM Agnt Attack, Benchmark Evaluation |
 | [ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents](https://openreview.net/pdf?id=WVhgFSKniL) | ICLR | 2026 | Large Language Model, Prompt Injection Attack, LLM Agent |
 | [BEYOND JAILBREAKING: AUDITING CONTEXTUAL PRIVACY IN LLM AGENTS](https://openreview.net/pdf?id=6EDpNDns1i) | ICLR | 2026 | Contextual Privacy, LLM Agents, Privacy Auditing |
+| [Why Agents Compromise Safety Under Pressure](https://arxiv.org/pdf/2603.14975) | arXiv | 2026 | Agent Safety, Pressure, Performance Trade-offs |
 | [RealSafe: Quantifying Safety Risks of Language Agents in Real-World](https://aclanthology.org/2025.coling-main.642.pdf) | ACL | 2025 | LLM Agent, Safety |
 | [ALIGNED LLMS ARE NOT ALIGNED BROWSER AGENTS](https://openreview.net/forum?id=NsFZZU9gvk) | ICLR | 2025 | Aligned LLMs, Browser Agents, Agent Safety |
 | [Can We Trust Embodied Agents? Exploring Backdoor Attacks Against Embodied LLM-based Decision-making Systems](https://openreview.net/pdf?id=S1Bv3068Xt) | ICLR | 2025 | Embodied Agents, Backdoor Attack, LLM-based Decision-Making |
