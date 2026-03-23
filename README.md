@@ -148,5 +148,15 @@ This repo covers (but is not limited to):
 | [Topology Matters: Measuring Memory Leakage in Multi-Agent LLMs](https://arxiv.org/pdf/2512.04668) | arXiv | 2026 | Multi-Agent LLMs, Memory Leakage, Topology, Privacy |
 | [MAGPIE: A Benchmark for Multi-AGent Contextual PrIvacy Evaluation](https://openreview.net/pdf?id=vZgdho8Vx0) | NeurIPS Workshop (ResponsibleFM) | 2025 | Multi-Agent Systems, Contextual Privacy, Benchmark, Evaluation |
 
+| [Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173) | ACM AISec (CCS Workshop) | 2023 | Indirect Prompt Injection, LLM Applications, Attack Taxonomy |
+| [InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated LLM Agents](https://aclanthology.org/2024.findings-acl.624/) | ACL Findings | 2024 | Indirect Prompt Injection, Tool-Integrated Agents, Benchmark |
+| [AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents](https://openreview.net/forum?id=m1YYAQjO3w) | NeurIPS | 2024 | Prompt Injection, Tool Agents, Attack Defense, Benchmark |
+| [AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents](https://openreview.net/forum?id=AC5n7xHuR1) | ICLR | 2025 | LLM Agents, Jailbreaking, Harm Benchmark, Agent Safety |
+| [Secret Collusion Among AI Agents: Multi-Agent Deception via Steganography](https://openreview.net/forum?id=bnNSQhZJ88) | NeurIPS | 2024 | Multi-Agent Collusion, Steganography, Covert Communication, AI Safety |
+| [Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification](https://aclanthology.org/2025.emnlp-main.5/) | EMNLP | 2025 | LLM Agents, Malfunction Attack, Agent Security, Adversarial Robustness |
+| [AGENTPOISON: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases](https://openreview.net/forum?id=Y841BRW9rY) | NeurIPS | 2024 | Red-Teaming, Memory Poisoning, Knowledge Base Poisoning, LLM Agents |
+| [EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage](https://openreview.net/forum?id=xMOLUzo2Lk) | ICLR | 2025 | Environmental Injection Attack, Web Agents, Privacy Leakage |
+| [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/pdf/2401.10019) | EMNLP | 2024 | LLM Agent, Safety Risk, Benchmark, Red-Teaming |
+| [Breaking Agent Backbones: Evaluating the Security of Backbone LLMs in AI Agents](https://openreview.net/pdf?id=kga18ld70t) | ICLR | 2026 | Backbone Security, LLM Agents, Adversarial Robustness, Security Benchmarks |
 
 
