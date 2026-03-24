@@ -182,3 +182,6 @@ This repo covers (but is not limited to):
 | [Dissecting Adversarial Robustness of Multimodal LM Agents](https://arxiv.org/abs/2406.12814) | ICLR | 2025 | Adversarial Robustness, Multimodal Agents, Web Agents, Attack Defense |
 | [Composite Backdoor Attacks Against Large Language Models](https://arxiv.org/abs/2310.07676) | arXiv | 2024 | Backdoor Attack, LLM Security, Composite Triggers, Stealthy Attack |
 | [Governance Architecture for Autonomous Agent Systems: Threats, Framework, and Engineering Practice](https://arxiv.org/abs/2603.07191) | arXiv | 2026 | Autonomous Agents, Governance Framework, Prompt Injection, RAG Poisoning, Tool Invocation Security |
+| [Differential Privacy in Generative AI Agents: Analysis and Optimal Tradeoffs](https://arxiv.org/abs/2603.17902) | arXiv | 2026 | Differential Privacy, Generative AI Agents, Privacy-Utility Tradeoffs, LLM Privacy |
+| [The Trust Paradox in LLM-Based Multi-Agent Systems: When Collaboration Becomes a Security Vulnerability](https://arxiv.org/abs/2510.18563) | arXiv | 2025 | Multi-Agent Systems, Trust, Security Vulnerability, LLM Collaboration, Agent Safety |
+| [Exposing Weak Links in Multi-Agent Systems under Adversarial Prompting](https://arxiv.org/abs/2511.10949) | arXiv | 2025 | Multi-Agent Systems, Adversarial Prompting, Weak Links, Agent Security, Robustness |
