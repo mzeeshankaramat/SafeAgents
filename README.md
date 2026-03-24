@@ -164,6 +164,9 @@ This repo covers (but is not limited to):
 | [GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory](https://arxiv.org/abs/2602.12316) | arXiv | 2026 | Emergent Multi-Agent Risks, Coordination Dynamics, Game-Theoretic Evaluation, Safety Benchmarking, Alignment Failures |
 | [SafePro: Evaluating the Safety of Professional-Level AI Agents](https://arxiv.org/abs/2601.06663) | arXiv | 2026 | Safety Evaluation, Agent Benchmarks, Control-Plane Risks, Alignment Failures, Real-World Deployment |
 | [Towards Verifiably Safe Tool Use for LLM Agents](https://arxiv.org/abs/2601.08012) | arXiv | 2026 | Data-Plane Leakage, Control-Plane Constraints, Tool Invocation Safety, Formal Guarantees, Agent Systems |
-
-
+| [ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents](https://arxiv.org/abs/2410.06703) | ICML | 2025 | Web Agents, Safety Benchmark, Policy Compliance, Trustworthiness |
+| [OpenAgentSafety: A Comprehensive Framework For Evaluating Real-World AI Agent Safety](https://arxiv.org/abs/2507.06134) | ICLR | 2026 | LLM Agents, Safety Evaluation, Real-World Tools, Multi-Turn Tasks |
+| [AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents](https://arxiv.org/abs/2503.09780) | NeurIPS | 2025 | Privacy Leakage, Web Agents, Data Minimization, Benchmark |
+| [MAGPIE: A Benchmark for Multi-AGent Contextual PrIvacy Evaluation](https://openreview.net/pdf?id=vZgdho8Vx0) | NeurIPS Workshop (ResponsibleFM) | 2025 | Multi-Agent Systems, Contextual Privacy, Benchmark, Evaluation |
+| [RealSafe: Quantifying Safety Risks of Language Agents in Real-World](https://aclanthology.org/2025.coling-main.642/) | COLING | 2025 | LLM Agent, Safety Risk, Benchmark, Real-World Evaluation |
 
