@@ -181,3 +181,4 @@ This repo covers (but is not limited to):
 | [BEAT: Visual Backdoor Attacks on VLM-Based Embodied Agents via Contrastive Trigger Learning](https://arxiv.org/abs/2510.27623) | arXiv | 2025 | Visual Backdoor, Embodied Agents, VLM, Contrastive Learning |
 | [Dissecting Adversarial Robustness of Multimodal LM Agents](https://arxiv.org/abs/2406.12814) | ICLR | 2025 | Adversarial Robustness, Multimodal Agents, Web Agents, Attack Defense |
 | [Composite Backdoor Attacks Against Large Language Models](https://arxiv.org/abs/2310.07676) | arXiv | 2024 | Backdoor Attack, LLM Security, Composite Triggers, Stealthy Attack |
+| [Governance Architecture for Autonomous Agent Systems: Threats, Framework, and Engineering Practice](https://arxiv.org/abs/2603.07191) | arXiv | 2026 | Autonomous Agents, Governance Framework, Prompt Injection, RAG Poisoning, Tool Invocation Security |
