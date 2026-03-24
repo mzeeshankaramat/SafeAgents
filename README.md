@@ -169,4 +169,15 @@ This repo covers (but is not limited to):
 | [AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents](https://arxiv.org/abs/2503.09780) | NeurIPS | 2025 | Privacy Leakage, Web Agents, Data Minimization, Benchmark |
 | [MAGPIE: A Benchmark for Multi-AGent Contextual PrIvacy Evaluation](https://openreview.net/pdf?id=vZgdho8Vx0) | NeurIPS Workshop (ResponsibleFM) | 2025 | Multi-Agent Systems, Contextual Privacy, Benchmark, Evaluation |
 | [RealSafe: Quantifying Safety Risks of Language Agents in Real-World](https://aclanthology.org/2025.coling-main.642/) | COLING | 2025 | LLM Agent, Safety Risk, Benchmark, Real-World Evaluation |
-
+| [Unveiling Privacy Risks in LLM Agent Memory](https://aclanthology.org/2025.acl-long.1227/) | ACL | 2025 | Memory Extraction, Privacy Risks, LLM Agents, Black-Box Attack |
+| [Ghost of the Past: Identifying and Resolving Privacy Leakage of LLM's Memory Through Proactive User Interaction](https://arxiv.org/abs/2410.14931) | arXiv | 2024 | Memory Privacy, LLM Agents, Privacy Leakage, User Interaction |
+| [RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications](https://arxiv.org/abs/2411.14110) | arXiv | 2024 | RAG, Data Extraction, Privacy, LLM Agents |
+| [PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/abs/2402.07867) | arXiv | 2024 | RAG, Knowledge Poisoning, LLM Security, Retrieval Attack |
+| [Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via Model Context Protocol](https://openreview.net/forum?id=UVgbFuXPaO) | arXiv | 2025 | MCP, Prompt Injection, Data Exfiltration, Tool-Using Agents |
+| [Your AI, My Shell: Demystifying Prompt Injection Attacks on Agentic AI Coding Editors](https://arxiv.org/abs/2509.22040) | arXiv | 2025 | Prompt Injection, AI Coding Editors, Shell Execution, Agent Security |
+| [Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast](https://arxiv.org/abs/2402.08567) | ICML | 2024 | Infectious Jailbreak, Multimodal Agents, Multi-Agent Systems, Adversarial Images |
+| [Safe in Isolation, Dangerous Together: Agent-Driven Multi-Turn Decomposition Jailbreaks on LLMs](https://aclanthology.org/2025.realm-1.13/) | ACL Workshop (REALM) | 2025 | Multi-Agent Jailbreak, Task Decomposition, LLM Safety, Agent Coordination |
+| [PsySafe: A Comprehensive Framework Integrating Psychological Insights, Adversarial Testing, and Protective Measures for Safe Multi-Agent System Design](https://arxiv.org/abs/2401.11880) | ACL | 2024 | Multi-Agent Safety, Psychological Manipulation, Adversarial Testing, Identity Attack |
+| [BEAT: Visual Backdoor Attacks on VLM-Based Embodied Agents via Contrastive Trigger Learning](https://arxiv.org/abs/2510.27623) | arXiv | 2025 | Visual Backdoor, Embodied Agents, VLM, Contrastive Learning |
+| [Dissecting Adversarial Robustness of Multimodal LM Agents](https://arxiv.org/abs/2406.12814) | ICLR | 2025 | Adversarial Robustness, Multimodal Agents, Web Agents, Attack Defense |
+| [Composite Backdoor Attacks Against Large Language Models](https://arxiv.org/abs/2310.07676) | arXiv | 2024 | Backdoor Attack, LLM Security, Composite Triggers, Stealthy Attack |
