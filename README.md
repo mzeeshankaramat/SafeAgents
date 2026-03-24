@@ -157,5 +157,13 @@ This repo covers (but is not limited to):
 | [EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage](https://openreview.net/forum?id=xMOLUzo2Lk) | ICLR | 2025 | Environmental Injection Attack, Web Agents, Privacy Leakage |
 | [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/abs/2401.10019) | EMNLP | 2024 | LLM Agent, Safety Risk, Benchmark, Red-Teaming |
 | [Breaking Agent Backbones: Evaluating the Security of Backbone LLMs in AI Agents](https://openreview.net/pdf?id=kga18ld70t) | ICLR | 2026 | Backbone Security, LLM Agents, Adversarial Robustness, Security Benchmarks |
+| [Conformity and Social Impact on AI Agents](https://arxiv.org/abs/2601.05384) | arXiv | 2026 | Multi-Agent Systems, Social Influence, Conformity Bias, Emergent Risks, Manipulation Attacks |
+| [Agent2Agent Threats in Safety-Critical LLM Assistants: A Human-Centric Taxonomy](https://arxiv.org/abs/2602.05877) | arXiv | 2026 | Communication-Plane Attacks, Data-Plane Propagation, Control-Plane Risks, Threat Modeling, Multi-Agent Systems |
+| [StepShield: When, Not Whether to Intervene on Rogue Agents](https://arxiv.org/abs/2601.22136) | arXiv | 2026 | Agent Safety, Runtime Monitoring, Early Intervention, Safety Benchmarks, Evaluation Metrics |
+| [Agent Skills in the Wild: An Empirical Study of Security Vulnerabilities at Scale](https://arxiv.org/abs/2601.10338) | arXiv | 2026 | Data-Plane Leakage, Control-Plane Attacks, Prompt Injection, Supply Chain Security, Multi-Agent Systems |
+| [GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory](https://arxiv.org/abs/2602.12316) | arXiv | 2026 | Emergent Multi-Agent Risks, Coordination Dynamics, Game-Theoretic Evaluation, Safety Benchmarking, Alignment Failures |
+| [SafePro: Evaluating the Safety of Professional-Level AI Agents](https://arxiv.org/abs/2601.06663) | arXiv | 2026 | Safety Evaluation, Agent Benchmarks, Control-Plane Risks, Alignment Failures, Real-World Deployment |
+| [Towards Verifiably Safe Tool Use for LLM Agents](https://arxiv.org/abs/2601.08012) | arXiv | 2026 | Data-Plane Leakage, Control-Plane Constraints, Tool Invocation Safety, Formal Guarantees, Agent Systems |
+
 
 
