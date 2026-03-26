@@ -152,7 +152,7 @@ This repo covers (but is not limited to):
 | [AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents](https://openreview.net/forum?id=m1YYAQjO3w) | NeurIPS | 2024 | Prompt Injection, Tool Agents, Attack Defense, Benchmark |
 | [AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents](https://openreview.net/forum?id=AC5n7xHuR1) | ICLR | 2025 | LLM Agents, Jailbreaking, Harm Benchmark, Agent Safety |
 | [Secret Collusion Among AI Agents: Multi-Agent Deception via Steganography](https://openreview.net/forum?id=bnNSQhZJ88) | NeurIPS | 2024 | Multi-Agent Collusion, Steganography, Covert Communication, AI Safety |
-| [Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification](https://aclanthology.org/2025.emnlp-main.5/) | EMNLP | 2025 | LLM Agents, Malfunction Attack, Agent Security, Adversarial Robustness |
+| [Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification](https://aclanthology.org/2025.emnlp-main.1771/) | EMNLP | 2025 | LLM Agents, Malfunction Attack, Agent Security, Adversarial Robustness |
 | [Conformity and Social Impact on AI Agents](https://arxiv.org/abs/2601.05384) | arXiv | 2026 | Multi-Agent Systems, Social Influence, Conformity Bias, Emergent Risks, Manipulation Attacks |
 | [Agent2Agent Threats in Safety-Critical LLM Assistants: A Human-Centric Taxonomy](https://arxiv.org/abs/2602.05877) | arXiv | 2026 | Communication-Plane Attacks, Data-Plane Propagation, Control-Plane Risks, Threat Modeling, Multi-Agent Systems |
 | [StepShield: When, Not Whether to Intervene on Rogue Agents](https://arxiv.org/abs/2601.22136) | arXiv | 2026 | Agent Safety, Runtime Monitoring, Early Intervention, Safety Benchmarks, Evaluation Metrics |
