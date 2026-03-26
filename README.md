@@ -185,3 +185,8 @@ This repo covers (but is not limited to):
 | [Differential Privacy in Generative AI Agents: Analysis and Optimal Tradeoffs](https://arxiv.org/abs/2603.17902) | arXiv | 2026 | Differential Privacy, Generative AI Agents, Privacy-Utility Tradeoffs, LLM Privacy |
 | [The Trust Paradox in LLM-Based Multi-Agent Systems: When Collaboration Becomes a Security Vulnerability](https://arxiv.org/abs/2510.18563) | arXiv | 2025 | Multi-Agent Systems, Trust, Security Vulnerability, LLM Collaboration, Agent Safety |
 | [Exposing Weak Links in Multi-Agent Systems under Adversarial Prompting](https://arxiv.org/abs/2511.10949) | arXiv | 2025 | Multi-Agent Systems, Adversarial Prompting, Weak Links, Agent Security, Robustness |
+| [VeriGuard: Enhancing LLM Agent Safety via Verified Code Generation](https://arxiv.org/abs/2510.05156) | arXiv | 2025 | Agent Security, Llm Security, Code verification, Security policies generation, Safety |
+| [Multi-Agent Risks from Advanced AI](https://arxiv.org/abs/2502.14143) | arXiv | 2025 | Emergent Multi-Agent Risks, System-Level Failures, Incentive Misalignment, Coordination Dynamics, Risk Factors |
+| [SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks](https://arxiv.org/abs/2506.11791) | arXiv | 2025 | Security Evaluation, Agent Benchmarks, Control-Plane Reliability, Vulnerability Analysis, Software Security |
+| [LLM Agents Should Employ Security Principles](https://arxiv.org/abs/2505.24019) | arXiv | 2025 | Defense Mechanisms, Control-Plane Security, Data-Plane Protection, Secure Agent Design, Multi-Agent Systems |
+
