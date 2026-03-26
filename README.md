@@ -153,10 +153,6 @@ This repo covers (but is not limited to):
 | [AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents](https://openreview.net/forum?id=AC5n7xHuR1) | ICLR | 2025 | LLM Agents, Jailbreaking, Harm Benchmark, Agent Safety |
 | [Secret Collusion Among AI Agents: Multi-Agent Deception via Steganography](https://openreview.net/forum?id=bnNSQhZJ88) | NeurIPS | 2024 | Multi-Agent Collusion, Steganography, Covert Communication, AI Safety |
 | [Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification](https://aclanthology.org/2025.emnlp-main.5/) | EMNLP | 2025 | LLM Agents, Malfunction Attack, Agent Security, Adversarial Robustness |
-| [AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases](https://openreview.net/forum?id=Y841BRW9rY) | NeurIPS | 2024 | Red-Teaming, Memory Poisoning, Knowledge Base Poisoning, LLM Agents |
-| [EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage](https://openreview.net/forum?id=xMOLUzo2Lk) | ICLR | 2025 | Environmental Injection Attack, Web Agents, Privacy Leakage |
-| [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/abs/2401.10019) | EMNLP | 2024 | LLM Agent, Safety Risk, Benchmark, Red-Teaming |
-| [Breaking Agent Backbones: Evaluating the Security of Backbone LLMs in AI Agents](https://openreview.net/pdf?id=kga18ld70t) | ICLR | 2026 | Backbone Security, LLM Agents, Adversarial Robustness, Security Benchmarks |
 | [Conformity and Social Impact on AI Agents](https://arxiv.org/abs/2601.05384) | arXiv | 2026 | Multi-Agent Systems, Social Influence, Conformity Bias, Emergent Risks, Manipulation Attacks |
 | [Agent2Agent Threats in Safety-Critical LLM Assistants: A Human-Centric Taxonomy](https://arxiv.org/abs/2602.05877) | arXiv | 2026 | Communication-Plane Attacks, Data-Plane Propagation, Control-Plane Risks, Threat Modeling, Multi-Agent Systems |
 | [StepShield: When, Not Whether to Intervene on Rogue Agents](https://arxiv.org/abs/2601.22136) | arXiv | 2026 | Agent Safety, Runtime Monitoring, Early Intervention, Safety Benchmarks, Evaluation Metrics |
@@ -164,11 +160,6 @@ This repo covers (but is not limited to):
 | [GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory](https://arxiv.org/abs/2602.12316) | arXiv | 2026 | Emergent Multi-Agent Risks, Coordination Dynamics, Game-Theoretic Evaluation, Safety Benchmarking, Alignment Failures |
 | [SafePro: Evaluating the Safety of Professional-Level AI Agents](https://arxiv.org/abs/2601.06663) | arXiv | 2026 | Safety Evaluation, Agent Benchmarks, Control-Plane Risks, Alignment Failures, Real-World Deployment |
 | [Towards Verifiably Safe Tool Use for LLM Agents](https://arxiv.org/abs/2601.08012) | arXiv | 2026 | Data-Plane Leakage, Control-Plane Constraints, Tool Invocation Safety, Formal Guarantees, Agent Systems |
-| [ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents](https://arxiv.org/abs/2410.06703) | ICML | 2025 | Web Agents, Safety Benchmark, Policy Compliance, Trustworthiness |
-| [OpenAgentSafety: A Comprehensive Framework For Evaluating Real-World AI Agent Safety](https://arxiv.org/abs/2507.06134) | ICLR | 2026 | LLM Agents, Safety Evaluation, Real-World Tools, Multi-Turn Tasks |
-| [AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents](https://arxiv.org/abs/2503.09780) | NeurIPS | 2025 | Privacy Leakage, Web Agents, Data Minimization, Benchmark |
-| [MAGPIE: A Benchmark for Multi-AGent Contextual PrIvacy Evaluation](https://openreview.net/pdf?id=vZgdho8Vx0) | NeurIPS Workshop (ResponsibleFM) | 2025 | Multi-Agent Systems, Contextual Privacy, Benchmark, Evaluation |
-| [RealSafe: Quantifying Safety Risks of Language Agents in Real-World](https://aclanthology.org/2025.coling-main.642/) | COLING | 2025 | LLM Agent, Safety Risk, Benchmark, Real-World Evaluation |
 | [Unveiling Privacy Risks in LLM Agent Memory](https://aclanthology.org/2025.acl-long.1227/) | ACL | 2025 | Memory Extraction, Privacy Risks, LLM Agents, Black-Box Attack |
 | [Ghost of the Past: Identifying and Resolving Privacy Leakage of LLM's Memory Through Proactive User Interaction](https://arxiv.org/abs/2410.14931) | arXiv | 2024 | Memory Privacy, LLM Agents, Privacy Leakage, User Interaction |
 | [RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications](https://arxiv.org/abs/2411.14110) | arXiv | 2024 | RAG, Data Extraction, Privacy, LLM Agents |
