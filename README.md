@@ -111,7 +111,7 @@ This repo covers (but is not limited to):
 | [SkillTrojan: Backdoor Attacks on Skill-Based Agent Systems](https://arxiv.org/abs/2604.06811) | ICML | 2026 | Backdoor Attack, Skill-Based Agents, Supply Chain Security, Tool Poisoning, Agent Security |
 | [Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents](https://arxiv.org/abs/2602.13379) | ICML | 2026 | Multi-Turn Safety, Tool-Using Agents, Safety Benchmark, Runtime Defense, Agent Security |
 | [Fault Tolerant Multi-Agent Learning with Adversarial Budget Constraints](https://arxiv.org/abs/2508.08800) | ICML | 2026 | Multi-Agent RL, Fault Tolerance, Adversarial Robustness, Cooperative MARL, Safety-Critical Systems |
-| [Safety Must Precede the Deployment of Open Ended AI](https://arxiv.org/html/2502.04512v3v) | ICML | 2026 | Open-Ended AI, AI Safety, Emergent Misalignment, Self-Evolving Agents, Position Paper |
+| [Safety Must Precede the Deployment of Open Ended AI](https://arxiv.org/html/2605.01147v1) | ICML | 2026 | Open-Ended AI, AI Safety, Emergent Misalignment, Self-Evolving Agents, Position Paper |
 | [ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents](https://openreview.net/pdf?id=MuCDzH0ctf) | ICLR | 2026 | Agentic systems, LLM-based agents, Web agents |
 | [Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents](https://openreview.net/pdf?id=Fd1jgQQW28) | ICLR | 2026 | Self-Evolving Agent, Agent Safety, Large Language Models |
 | [OpenAgentSafety: A Comprehensive Framework For Evaluating Real-World AI Agent Safety](https://openreview.net/pdf?id=xggSxCFQbA) | ICLR | 2026 | LLM Agents, Safety, Risks, Datasets, Benchmarks |
