@@ -244,3 +244,7 @@ This repo covers (but is not limited to):
 | [HarmBench: A Standardized Evaluation Framework for Automated Red Teaming](https://openreview.net/forum?id=5NDSSI28nI) | ICML | 2024 | Red Teaming, Safety Evaluation, Jailbreaking, Standardized Benchmark |
 | [LM Agents May Fail to Act on Their Own Risk Knowledge](https://arxiv.org/abs/2508.13465) | arXiv | 2025 | Agent Safety, Risk Awareness Gap, Knowledge-Execution Gap, LLM Agents |
 | [Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs](https://arxiv.org/abs/2307.10490) | arXiv | 2023 | Multimodal Agents, Indirect Injection, Image-Based Attack, Sound-Based Attack |
+
+| [Agent-Sentry: Bounding LLM Agents via Execution Provenance](https://arxiv.org/abs/2603.22868) | arXiv | 2026 | Defense, Trust Modeling, Execution Provenance, Agent Security |
+
+| [Calibrating Noise to Sensitivity in Private Data Analysis](https://doi.org/10.1007/11681878_14) | TCC | 2006 | Differential Privacy, Formal Guarantee, Privacy Theory, Foundational |
