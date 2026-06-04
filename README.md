@@ -111,7 +111,7 @@ This repo covers (but is not limited to):
 | [OMNI-LEAK: Orchestrator Multi-Agent Network Induced Data Leakage](https://arxiv.org/pdf/2602.13477v1) | arXiv | 2026 | Multi-Agent, Orchestrator, Prompt Injection, Data Leakage, Privacy |
 | [SkillTrojan: Backdoor Attacks on Skill-Based Agent Systems](https://arxiv.org/abs/2604.06811) | ICML | 2026 | Backdoor Attack, Skill-Based Agents, Supply Chain Security, Tool Poisoning, Agent Security |
 | [Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents](https://arxiv.org/abs/2602.13379) | ICML | 2026 | Multi-Turn Safety, Tool-Using Agents, MT-AgentRisk, ToolShield, Safety Benchmark, Runtime Defense, Agent Security |
-| SafeSearch: Automated Red-Teaming of LLM-Based Search Agents — Jianshuo Dong et al. | ICML | 2026 | Search Agents, Red-Teaming, Search Safety, Misinformation, Prompt Injection |
+| [SafeSearch: Automated Red-Teaming of LLM-Based Search Agents](https://openreview.net/forum?id=f2ZiFnZEQA) | ICML | 2026 | Search Agents, Red-Teaming, Search Safety, Misinformation, Prompt Injection |
 | [Fault Tolerant Multi-Agent Learning with Adversarial Budget Constraints](https://arxiv.org/abs/2508.08800) | ICML | 2026 | Multi-Agent RL, Fault Tolerance, Adversarial Robustness, Cooperative MARL, Safety-Critical Systems |
 | [Safety Must Precede the Deployment of Open Ended AI](https://arxiv.org/html/2605.01147v1) | ICML | 2026 | Open-Ended AI, AI Safety, Emergent Misalignment, Self-Evolving Agents, Position Paper |
 | [ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents](https://openreview.net/pdf?id=MuCDzH0ctf) | ICLR | 2026 | Agentic systems, LLM-based agents, Web agents |
@@ -254,6 +254,5 @@ This repo covers (but is not limited to):
 | [Prompt Injection Attack Against LLM-Integrated Applications](https://arxiv.org/abs/2306.05499) | arXiv | 2023 | Prompt Injection, LLM Applications, Attack Framework, Security Taxonomy |
 | [HarmBench: A Standardized Evaluation Framework for Automated Red Teaming](https://openreview.net/forum?id=5NDSSI28nI) | ICML | 2024 | Red Teaming, Safety Evaluation, Jailbreaking, Standardized Benchmark |
 | [LM Agents May Fail to Act on Their Own Risk Knowledge](https://arxiv.org/abs/2508.13465) | arXiv | 2025 | Agent Safety, Risk Awareness Gap, Knowledge-Execution Gap, LLM Agents |
-
 | [Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs](https://arxiv.org/abs/2307.10490) | arXiv | 2023 | Multimodal Agents, Indirect Injection, Image-Based Attack, Sound-Based Attack |
 
