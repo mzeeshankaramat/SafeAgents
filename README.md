@@ -107,6 +107,69 @@ This repo covers (but is not limited to):
 
 | Paper | Venue | Date | Tags |
 |------|------|------|------|
+| [A-MemGuard: A Proactive Defense Framework For LLM-Based Agent Memory](https://openreview.net/forum?id=udqe7UZUZ6) | ICML | 2026 | Memory Security, Defense, Knowledge Poisoning, Tool-Using Agents |
+| [AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks](https://openreview.net/forum?id=Bb0pQqsiad) | ICML | 2026 | Benchmark, Red-Teaming, Memory Security, Tool-Using Agents, Prompt Injection |
+| [CausalArmor: Efficient Indirect Prompt Injection Guardrails via Causal Attribution](https://openreview.net/forum?id=fE4urn9hyM) | ICML | 2026 | Prompt Injection, Guardrails, Tool-Using Agents, Runtime Defense |
+| [Contextualized Privacy Defense for LLM Agents](https://openreview.net/forum?id=b4QtBbSV3X) | ICML | 2026 | Contextual Privacy, Privacy Leakage, Tool-Using Agents, Defense |
+| [It's a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents](https://openreview.net/forum?id=Smk4fl6Q9E) | ICML | 2026 | Prompt Injection, Web Agents, Benchmark, Red-Teaming |
+| [MemIncept: Steering LLM Agents via Cooperative Stealthy Memory Injections](https://openreview.net/forum?id=1YNrlSSRsk) | ICML | 2026 | Memory Security, Knowledge Poisoning, Red-Teaming, Tool-Using Agents |
+| [SOPE: Situation-Aware and Statistically Indistinguishable Privacy Exfiltration for MCP-enabled Agents](https://openreview.net/forum?id=Ra0pui9HXF) | ICML | 2026 | MCP, Supply Chain Security, Privacy Leakage, Prompt Injection |
+| [Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning](https://openreview.net/forum?id=jiNw5AgBbw) | ICML | 2026 | Tool-Using Agents, Prompt Injection, MCP, Runtime Defense |
+| [When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents](https://openreview.net/forum?id=Q3UQSz4Giw) | ICML | 2026 | OS Agents, Guardrails, Prompt Injection, Benchmark |
+| [*MemPot*: Defend Against Memory Extraction Attack with Optimized Honeypots](https://openreview.net/forum?id=goUAT3UcR4) | ICML | 2026 | Memory Security, Privacy Leakage, Defense, Tool-Using Agents |
+| [ANCHOR: Automated Alignment Auditing for CLI Agents on Real-World Harm](https://openreview.net/forum?id=YqTodSrPPB) | ICML | 2026 | Red-Teaming, Safety Evaluation, Code Agents, Benchmark |
+| [AdvEvo-MARL: Shaping Internalized Safety through Adversarial Co-Evolution in Multi-Agent Reinforcement Learning](https://openreview.net/forum?id=5D3ZblXmW2) | ICML | 2026 | Multi-Agent Systems, Multi-Agent RL, Jailbreaking, Defense |
+| [Architecture Matters for Multi-Agent Security](https://openreview.net/forum?id=Jk4zLorDUx) | ICML | 2026 | Multi-Agent Systems, Web Agents, Threat Modeling, Safety Evaluation |
+| [AutoControl Arena: Synthesizing Executable Test Environments for Frontier AI Risk Evaluation](https://openreview.net/forum?id=XkDpZusDTK) | ICML | 2026 | Benchmark, Safety Evaluation, Red-Teaming, Tool-Using Agents |
+| [Causal Detection of Multi-Step LLM Agent Attacks](https://openreview.net/forum?id=Kb2m543agS) | ICML | 2026 | Prompt Injection, Tool-Using Agents, Runtime Defense, Defense |
+| [Constitutional Black-Box Monitoring for Scheming in LLM Agents](https://openreview.net/forum?id=GkL3dANi6M) | ICML | 2026 | Runtime Defense, Safety Evaluation, Tool-Using Agents, Threat Modeling |
+| [EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://openreview.net/forum?id=aoUVQ5d8vf) | ICML | 2026 | Embodied Agents, Guardrails, Benchmark, Multimodal Agents, Safety Evaluation |
+| [FormalJudge: A Neuro-Symbolic Paradigm for Agentic Oversight](https://openreview.net/forum?id=tnsQ23imeD) | ICML | 2026 | Formal Methods, Guardrails, Safety Evaluation, Tool-Using Agents |
+| [From Weak Cues to Real Identities: Evaluating Inference-Driven De-Anonymization in LLM Agents](https://openreview.net/forum?id=Kux5q1mL1x) | ICML | 2026 | Privacy Leakage, Privacy, Benchmark, Tool-Using Agents |
+| [Helpful to a Fault: Measuring Illicit Assistance in Multi-Turn, Multilingual LLM Agents](https://openreview.net/forum?id=tB05up6g5N) | ICML | 2026 | Red-Teaming, Tool-Using Agents, Benchmark, Safety Evaluation, Jailbreaking |
+| [Is Vibe Coding Safe? Benchmarking Vulnerability of Agent-Generated Code in Real-World Tasks](https://openreview.net/forum?id=qG8g00zRZa) | ICML | 2026 | Benchmark, Code Agents, Safety Evaluation, Red-Teaming |
+| [Just Ask: Curious Code Agents Reveal System Prompts in Frontier LLMs](https://openreview.net/forum?id=qFWLv8bLL2) | ICML | 2026 | Code Agents, Red-Teaming, Privacy Leakage, Tool-Using Agents |
+| [Learning Efficient Guardrails for Compliance](https://openreview.net/forum?id=y3niyCNvAp) | ICML | 2026 | Guardrails, Web Agents, Benchmark, Runtime Defense |
+| [Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use](https://openreview.net/forum?id=Stf5SF4JvR) | ICML | 2026 | Tool-Using Agents, Defense, Prompt Injection, Privacy Leakage |
+| [MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization](https://openreview.net/forum?id=rW2xHmYrZA) | ICML | 2026 | Contextual Privacy, Privacy Leakage, OS Agents, Defense |
+| [MaMa: A Game-Theoretic Approach for Designing Safe Agentic Systems](https://openreview.net/forum?id=KR6avDABG8) | ICML | 2026 | Multi-Agent Systems, Defense, Adversarial Robustness, Threat Modeling |
+| [OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents](https://openreview.net/forum?id=n6smFKXQWg) | ICML | 2026 | Red-Teaming, Tool-Using Agents, Prompt Injection, Adversarial Robustness |
+| [OrchJail: Jailbreaking Tool-Calling Text-to-Image Agents by Orchestration-Guided Fuzzing](https://openreview.net/forum?id=VviX6pPCgV) | ICML | 2026 | Jailbreaking, Red-Teaming, Tool-Using Agents, Multimodal Agents |
+| [Position: Agent Security Needs Redefinition through a Holistic Framework](https://openreview.net/forum?id=HMQmLtcfme) | ICML | 2026 | Position Paper, Threat Modeling, Prompt Injection, Tool-Using Agents |
+| [Prompt Injection as Role Confusion](https://openreview.net/forum?id=Lm3DQDyIsI) | ICML | 2026 | Prompt Injection, Tool-Using Agents, Web Agents, Red-Teaming |
+| [Quantifying Frontier LLM Capabilities for Container Sandbox Escape](https://openreview.net/forum?id=19AbP986bv) | ICML | 2026 | Benchmark, Code Agents, Safety Evaluation, Threat Modeling |
+| [Reward Hacking Benchmark: Measuring Exploits in LLM Agents with Tool Use](https://openreview.net/forum?id=YMA0ByEdVj) | ICML | 2026 | Benchmark, Tool-Using Agents, Safety Evaluation, Red-Teaming |
+| [SafeHarbor: Defining Precise Decision Boundaries via Hierarchical Memory-Augmented Guardrail for LLM Agent Safety](https://openreview.net/forum?id=MEKj3d9Bf3) | ICML | 2026 | Guardrails, Tool-Using Agents, Memory Security, Defense |
+| [Securing Multi-Agent Systems Against Corruptions via Node Contribution Backpropagation](https://openreview.net/forum?id=TphOLCDmKB) | ICML | 2026 | Multi-Agent Systems, Defense, Guardrails, Adversarial Robustness |
+| [Speculative Safety Honeypot: Toward Proactive Defense Against Multi-turn Agent Attacks](https://openreview.net/forum?id=F7KJeI4oql) | ICML | 2026 | Runtime Defense, Multi-Agent Systems, Defense, Tool-Using Agents |
+| [Sponge Tool Attack: Stealthy Denial-of-Efficiency against Tool-Augmented Agentic Reasoning](https://openreview.net/forum?id=g9fZTb53kL) | ICML | 2026 | Tool-Using Agents, Red-Teaming, Adversarial Robustness, Multi-Agent Systems |
+| [Think Twice Before You Act: Enhancing Agent Behavioral Safety with Thought Correction](https://openreview.net/forum?id=x5VjErljHS) | ICML | 2026 | Guardrails, Runtime Defense, Tool-Using Agents, Safety Evaluation |
+| [When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems](https://openreview.net/forum?id=BnduUW8izq) | ICML | 2026 | Multi-Agent Systems, Runtime Defense, Defense, Adversarial Robustness |
+| [When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents](https://openreview.net/forum?id=PbXNvEE0jA) | ICML | 2026 | OS Agents, Red-Teaming, Safety Evaluation, Tool-Using Agents |
+| [When Embedding-Based Defenses Fail: Rethinking Safety in LLM-Based Multi-Agent Systems](https://openreview.net/forum?id=j5ibZwkwqF) | ICML | 2026 | Multi-Agent Systems, Red-Teaming, Defense, Communication-Plane |
+| [A New Framework for Cybersecurity Refusals in AI Agents](https://openreview.net/forum?id=tkNyoOIbgj) | ICML | 2026 | Safety Evaluation, Benchmark, Red-Teaming, Tool-Using Agents |
+| [ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity](https://openreview.net/forum?id=yiaf7VlPpH) | ICML | 2026 | Benchmark, Safety Evaluation, Tool-Using Agents |
+| [Are Your Agents Upward Deceivers?](https://openreview.net/forum?id=fKtCkb8Ixj) | ICML | 2026 | Benchmark, Tool-Using Agents, Safety Evaluation, Red-Teaming |
+| [AutoRAS: Learning Robust Agentic Systems with Primitive Representations](https://openreview.net/forum?id=7zTV4dvdGB) | ICML | 2026 | Multi-Agent Systems, Adversarial Robustness, Defense, Safety Evaluation |
+| [Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions](https://openreview.net/forum?id=Vhi9tHbKTa) | ICML | 2026 | Collusion, Position Paper, Multi-Agent Systems, Governance |
+| [Position: Let’s Build a Trustworthy Model Context Protocol!](https://openreview.net/forum?id=02sR3qKGMd) | ICML | 2026 | MCP, Position Paper, Governance, Threat Modeling |
+| [Position: To Defend Against Cyber Attacks, We Must Teach AI Agents to Hack](https://openreview.net/forum?id=P5t96sITf7) | ICML | 2026 | Position Paper, Governance, Red-Teaming, Threat Modeling |
+| [SafeLab: An Interactive High-Fidelity Benchmark for Embodied Safety in Scientific Robotics](https://openreview.net/forum?id=ojwpa0wXo9) | ICML | 2026 | Embodied Agents, Benchmark, Safety Evaluation |
+| [The Oversight Game: Learning to Cooperatively Balance an AI Agent's Safety and Autonomy](https://openreview.net/forum?id=Na3YzWMXwz) | ICML | 2026 | Governance, Tool-Using Agents, Runtime Defense, Formal Methods |
+| [Towards a Science of AI Agent Reliability](https://openreview.net/forum?id=4LTwRqhmhk) | ICML | 2026 | Safety Evaluation, Benchmark, Adversarial Robustness, Tool-Using Agents |
+| [AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions](https://openreview.net/forum?id=0H5Im3Xvuf) | ICML | 2026 | OS Agents, Benchmark, Adversarial Robustness, Multimodal Agents |
+| [AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition](https://openreview.net/forum?id=ORVJCJczoG) | ICML | 2026 | Benchmark, Tool-Using Agents, Adversarial Robustness, Safety Evaluation |
+| [BlueCodeAgent: A Blue Teaming Agent Powered by Automated Red Teaming for CodeGen AI](https://openreview.net/forum?id=TR2DYfZXTd) | ICML | 2026 | Code Agents, Red-Teaming, Defense, Prompt Injection |
+| [Emergence of Biased Consensus in Multi-Agent LLM Debates](https://openreview.net/forum?id=5EtByXq4bX) | ICML | 2026 | Multi-Agent Systems, Emergent Multi-Agent Risks, Safety Evaluation |
+| [From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching](https://openreview.net/forum?id=BQfNL1wahQ) | ICML | 2026 | Threat Modeling, Tool-Using Agents, Red-Teaming, Supply Chain Security |
+| [Judgment Operators: A Composition-Invariant Substrate for Multi-Agent Action Spaces](https://openreview.net/forum?id=8Ysr6x0XMv) | ICML | 2026 | Multi-Agent Systems, Governance, Runtime Defense, Guardrails |
+| [Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](https://openreview.net/forum?id=wPKGirrtyz) | ICML | 2026 | Web Agents, Multimodal Agents, Defense, Benchmark |
+| [Position: Academic Conferences are Potentially Facing Denominator Gaming Caused by Fully Automated Scientific Agents](https://openreview.net/forum?id=36ITkZHUMZ) | ICML | 2026 | Position Paper, Threat Modeling, Governance, Defense |
+| [Position: Accountable Deployment of Agentic AI Demands Layered, System-Level Interpretability](https://openreview.net/forum?id=liNx7tarrT) | ICML | 2026 | Position Paper, Governance, Runtime Defense, Multi-Agent Systems |
+| [Position: Agentic Safety is an Epistemic Property, Not a Behavioral One](https://openreview.net/forum?id=30mapdhNKH) | ICML | 2026 | Position Paper, Self-Evolving Agents, Governance |
+| [PragLocker: Protecting Agent Intellectual Property in Untrusted Deployments via Non-Portable Prompts](https://openreview.net/forum?id=PWhmZ04OTr) | ICML | 2026 | Tool-Using Agents, Defense, Threat Modeling |
+| [Watermarking LLM Agent Trajectories](https://openreview.net/forum?id=h5M4E33Pqs) | ICML | 2026 | Backdoor Attack, Tool-Using Agents, Defense, Supply Chain Security |
+| [``Someone Hid It!'': Query-Agnostic Black-Box Attacks on LLM-Based Retrieval](https://openreview.net/forum?id=bzmt9wJ6uW) | ICML | 2026 | RAG Security, Memory Security, Knowledge Poisoning, Adversarial Robustness |
 | [AIR: Improving Agent Safety through Incident Response](https://arxiv.org/abs/2602.11749) | ICML | 2026 | Incident Response, Runtime Defense, Agent Safety, Guardrails, Recovery Mechanisms |
 | [OMNI-LEAK: Orchestrator Multi-Agent Network Induced Data Leakage](https://arxiv.org/pdf/2602.13477v1) | arXiv | 2026 | Multi-Agent, Orchestrator, Prompt Injection, Data Leakage, Privacy |
 | [SkillTrojan: Backdoor Attacks on Skill-Based Agent Systems](https://arxiv.org/abs/2604.06811) | ICML | 2026 | Backdoor Attack, Skill-Based Agents, Supply Chain Security, Tool Poisoning, Agent Security |
