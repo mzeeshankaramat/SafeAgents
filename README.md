@@ -107,6 +107,10 @@ This repo covers (but is not limited to):
 
 | Paper | Venue | Date | Tags |
 |------|------|------|------|
+| [Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP Ecosystem](https://doi.org/10.1109/sp63933.2026.00154) | IEEE S&P | 2026 | MCP, Privacy Leakage, Supply Chain Security, Tool-Using Agents, Threat Modeling |
+| [Investigating the Impact of Dark Patterns on LLM-Based Web Agents](https://doi.org/10.1109/sp63933.2026.00042) | IEEE S&P | 2026 | Web Agents, Benchmark, Adversarial Robustness, Safety Evaluation |
+| [AttnTrace: Contextual Attribution of Prompt Injection and Knowledge Corruption](https://doi.org/10.1109/sp63933.2026.00198) | IEEE S&P | 2026 | Prompt Injection, Knowledge Poisoning, RAG Security, Defense |
+| [Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection](https://doi.org/10.1109/sp63933.2026.00214) | IEEE S&P | 2026 | Prompt Injection, Multimodal Agents, Adversarial Robustness, Red-Teaming |
 | [A-MemGuard: A Proactive Defense Framework For LLM-Based Agent Memory](https://openreview.net/forum?id=udqe7UZUZ6) | ICML | 2026 | Memory Security, Defense, Knowledge Poisoning, Tool-Using Agents |
 | [AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks](https://openreview.net/forum?id=Bb0pQqsiad) | ICML | 2026 | Benchmark, Red-Teaming, Memory Security, Tool-Using Agents, Prompt Injection |
 | [CausalArmor: Efficient Indirect Prompt Injection Guardrails via Causal Attribution](https://openreview.net/forum?id=fE4urn9hyM) | ICML | 2026 | Prompt Injection, Guardrails, Tool-Using Agents, Runtime Defense |
