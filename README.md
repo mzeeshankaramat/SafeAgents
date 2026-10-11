@@ -107,6 +107,8 @@ This repo covers (but is not limited to):
 
 | Paper | Venue | Date | Tags |
 |------|------|------|------|
+| [Mind the Gap: Action Rebinding Attacks against Android GUI Agents](https://arxiv.org/abs/2601.12349) | CCS | 2026 | OS Agents, Multimodal Agents, Red-Teaming, Threat Modeling |
+| [MirrorGuard: Toward Secure Computer-Use Agents via Simulation-to-Real Reasoning Correction](https://arxiv.org/abs/2601.12822) | CCS | 2026 | OS Agents, Defense, Prompt Injection, Guardrails |
 | [Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP Ecosystem](https://doi.org/10.1109/sp63933.2026.00154) | IEEE S&P | 2026 | MCP, Privacy Leakage, Supply Chain Security, Tool-Using Agents, Threat Modeling |
 | [Investigating the Impact of Dark Patterns on LLM-Based Web Agents](https://doi.org/10.1109/sp63933.2026.00042) | IEEE S&P | 2026 | Web Agents, Benchmark, Adversarial Robustness, Safety Evaluation |
 | [AttnTrace: Contextual Attribution of Prompt Injection and Knowledge Corruption](https://doi.org/10.1109/sp63933.2026.00198) | IEEE S&P | 2026 | Prompt Injection, Knowledge Poisoning, RAG Security, Defense |
