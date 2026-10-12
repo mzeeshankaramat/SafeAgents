@@ -107,6 +107,11 @@ This repo covers (but is not limited to):
 
 | Paper | Venue | Date | Tags |
 |------|------|------|------|
+| [ATBench: A Diverse and Realistic Agent Trajectory Benchmark for Safety Evaluation and Diagnosis](https://arxiv.org/abs/2604.02022) | COLM | 2026 | Benchmark, Safety Evaluation, Tool-Using Agents, Threat Modeling |
+| [InjecMEM: Memory Injection Attack on LLM Agent Memory Systems](https://arxiv.org/abs/2608.23471) | COLM | 2026 | Memory Security, Prompt Injection, Knowledge Poisoning, Tool-Using Agents |
+| [ClawsBench: Evaluating Capability and Safety of LLM Productivity Agents in Simulated Workspaces](https://arxiv.org/abs/2604.05172) | COLM | 2026 | Benchmark, Safety Evaluation, Tool-Using Agents, Red-Teaming |
+| [Extended to Reality: Prompt Injection in 3D Environments](https://arxiv.org/abs/2602.07104) | COLM | 2026 | Prompt Injection, Multimodal Agents, Embodied Agents, Red-Teaming |
+| [Autonomy Reshapes How Personalization Affects Privacy Concerns and Trust in LLM Agents](https://arxiv.org/abs/2510.04465) | COLM | 2026 | Privacy, Tool-Using Agents, Safety Evaluation, Privacy Leakage |
 | [ACE: A Security Architecture for LLM-Integrated App Systems](https://www.ndss-symposium.org/ndss-paper/ace-a-security-architecture-for-llm-integrated-app-systems/) | NDSS | 2026 | Prompt Injection, Tool-Using Agents, Formal Methods, Defense |
 | [Les Dissonances: Cross-Tool Harvesting and Polluting in Pool-of-Tools Empowered LLM Agents](https://www.ndss-symposium.org/ndss-paper/les-dissonances-cross-tool-harvesting-and-polluting-in-pool-of-tools-empowered-llm-agents/) | NDSS | 2026 | Tool-Using Agents, Threat Modeling, Privacy Leakage, Supply Chain Security |
 | [Prompt Injection Attack to Tool Selection in LLM Agents](https://www.ndss-symposium.org/ndss-paper/prompt-injection-attack-to-tool-selection-in-llm-agents/) | NDSS | 2026 | Prompt Injection, Tool-Using Agents, Supply Chain Security, Red-Teaming |
