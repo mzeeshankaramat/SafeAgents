@@ -107,6 +107,11 @@ This repo covers (but is not limited to):
 
 | Paper | Venue | Date | Tags |
 |------|------|------|------|
+| [ACE: A Security Architecture for LLM-Integrated App Systems](https://www.ndss-symposium.org/ndss-paper/ace-a-security-architecture-for-llm-integrated-app-systems/) | NDSS | 2026 | Prompt Injection, Tool-Using Agents, Formal Methods, Defense |
+| [Les Dissonances: Cross-Tool Harvesting and Polluting in Pool-of-Tools Empowered LLM Agents](https://www.ndss-symposium.org/ndss-paper/les-dissonances-cross-tool-harvesting-and-polluting-in-pool-of-tools-empowered-llm-agents/) | NDSS | 2026 | Tool-Using Agents, Threat Modeling, Privacy Leakage, Supply Chain Security |
+| [Prompt Injection Attack to Tool Selection in LLM Agents](https://www.ndss-symposium.org/ndss-paper/prompt-injection-attack-to-tool-selection-in-llm-agents/) | NDSS | 2026 | Prompt Injection, Tool-Using Agents, Supply Chain Security, Red-Teaming |
+| [SAGA: A Security Architecture for Governing AI Agentic Systems](https://www.ndss-symposium.org/ndss-paper/saga-a-security-architecture-for-governing-ai-agentic-systems/) | NDSS | 2026 | Governance, Multi-Agent Systems, Communication-Plane, Control-Plane |
+| [ObliInjection: Order-Oblivious Prompt Injection Attack to LLM Agents with Multi-source Data](https://www.ndss-symposium.org/ndss-paper/obliinjection-order-oblivious-prompt-injection-attack-to-llm-agents-with-multi-source-data/) | NDSS | 2026 | Prompt Injection, Tool-Using Agents, Red-Teaming |
 | [Mind the Gap: Action Rebinding Attacks against Android GUI Agents](https://arxiv.org/abs/2601.12349) | CCS | 2026 | OS Agents, Multimodal Agents, Red-Teaming, Threat Modeling |
 | [MirrorGuard: Toward Secure Computer-Use Agents via Simulation-to-Real Reasoning Correction](https://arxiv.org/abs/2601.12822) | CCS | 2026 | OS Agents, Defense, Prompt Injection, Guardrails |
 | [Parasites in the Toolchain: A Large-Scale Analysis of Attacks on the MCP Ecosystem](https://doi.org/10.1109/sp63933.2026.00154) | IEEE S&P | 2026 | MCP, Privacy Leakage, Supply Chain Security, Tool-Using Agents, Threat Modeling |
