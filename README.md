@@ -111,7 +111,7 @@ This repo covers (but is not limited to):
 | [Building a Foundational Guardrail for General Agentic Systems via Synthetic Data](https://openreview.net/forum?id=M47SWYubR5) | ICLR | 2026 | Guardrails, Tool-Using Agents, Benchmark, Runtime Defense |
 | [MCP-SafetyBench: A Benchmark for Safety Evaluation of Large Language Models with Real-World MCP Servers](https://openreview.net/forum?id=7XYjeL46co) | ICLR | 2026 | MCP, Benchmark, Safety Evaluation, Tool-Using Agents, Red-Teaming |
 | [RedCodeAgent: Automatic Red-teaming Agent against Diverse Code Agents](https://openreview.net/forum?id=IyIaAOihmZ) | ICLR | 2026 | Red-Teaming, Code Agents, Jailbreaking, Safety Evaluation |
-| [RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments](https://openreview.net/forum?id=2026-Oral--22261-1b67edf8) | ICLR | 2026 | Prompt Injection, Red-Teaming, OS Agents, Web Agents, Benchmark |
+| [RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments](https://openreview.net/forum?id=yWwrgcBoK3) | ICLR | 2026 | Prompt Injection, Red-Teaming, OS Agents, Web Agents, Benchmark |
 | [VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents](https://openreview.net/forum?id=UMauKu2azg) | ICLR | 2026 | Prompt Injection, Benchmark, OS Agents, Multimodal Agents |
 | [Adaptive Attacks on Trusted Monitors Subvert AI Control Protocols](https://openreview.net/forum?id=wSs1Ez3aKl) | ICLR | 2026 | Red-Teaming, Prompt Injection, Runtime Defense, Tool-Using Agents |
 | [GhostEI-Bench: Do Mobile Agent Resilience to Environmental Injection in Dynamic On-Device Environments?](https://openreview.net/forum?id=2zi9z2geAO) | ICLR | 2026 | Benchmark, Prompt Injection, Multimodal Agents, OS Agents, Red-Teaming |
