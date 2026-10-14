@@ -107,6 +107,31 @@ This repo covers (but is not limited to):
 
 | Paper | Venue | Date | Tags |
 |------|------|------|------|
+| [A2ASecBench: A Protocol-Aware Security Benchmark for Agent-to-Agent Multi-Agent Systems](https://openreview.net/forum?id=LfdFnakqGJ) | ICLR | 2026 | Multi-Agent Systems, Benchmark, Communication-Plane, Threat Modeling, Supply Chain Security |
+| [Building a Foundational Guardrail for General Agentic Systems via Synthetic Data](https://openreview.net/forum?id=M47SWYubR5) | ICLR | 2026 | Guardrails, Tool-Using Agents, Benchmark, Runtime Defense |
+| [MCP-SafetyBench: A Benchmark for Safety Evaluation of Large Language Models with Real-World MCP Servers](https://openreview.net/forum?id=7XYjeL46co) | ICLR | 2026 | MCP, Benchmark, Safety Evaluation, Tool-Using Agents, Red-Teaming |
+| [RedCodeAgent: Automatic Red-teaming Agent against Diverse Code Agents](https://openreview.net/forum?id=IyIaAOihmZ) | ICLR | 2026 | Red-Teaming, Code Agents, Jailbreaking, Safety Evaluation |
+| [RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments](https://openreview.net/forum?id=2026-Oral--22261-1b67edf8) | ICLR | 2026 | Prompt Injection, Red-Teaming, OS Agents, Web Agents, Benchmark |
+| [VPI-Bench: Visual Prompt Injection Attacks for Computer-Use Agents](https://openreview.net/forum?id=UMauKu2azg) | ICLR | 2026 | Prompt Injection, Benchmark, OS Agents, Multimodal Agents |
+| [Adaptive Attacks on Trusted Monitors Subvert AI Control Protocols](https://openreview.net/forum?id=wSs1Ez3aKl) | ICLR | 2026 | Red-Teaming, Prompt Injection, Runtime Defense, Tool-Using Agents |
+| [GhostEI-Bench: Do Mobile Agent Resilience to Environmental Injection in Dynamic On-Device Environments?](https://openreview.net/forum?id=2zi9z2geAO) | ICLR | 2026 | Benchmark, Prompt Injection, Multimodal Agents, OS Agents, Red-Teaming |
+| [Goal-Aware Identification and Rectification of Misinformation in Multi-Agent Systems](https://openreview.net/forum?id=6Y9NP1qhoM) | ICLR | 2026 | Multi-Agent Systems, Prompt Injection, Benchmark, Defense |
+| [How Dark Patterns Manipulate Web Agents](https://openreview.net/forum?id=G7Dan0L7ho) | ICLR | 2026 | Web Agents, Red-Teaming, Benchmark, Adversarial Robustness, Safety Evaluation |
+| [Just Do It!? Computer-Use Agents Exhibit Blind Goal-Directedness](https://openreview.net/forum?id=9W4bPRsEIT) | ICLR | 2026 | OS Agents, Benchmark, Safety Evaluation, Red-Teaming |
+| [Monitoring Decomposition Attacks with Lightweight Sequential Monitors](https://openreview.net/forum?id=HQuboWvFA1) | ICLR | 2026 | Runtime Defense, Guardrails, Red-Teaming, Tool-Using Agents, Benchmark |
+| [Optimizing Agent Planning for Security and Autonomy](https://openreview.net/forum?id=g0aVCDY3gS) | ICLR | 2026 | Prompt Injection, Tool-Using Agents, Runtime Defense, Defense |
+| [Reliable Weak-to-Strong Monitoring of LLM Agents](https://openreview.net/forum?id=WV7xIboTDK) | ICLR | 2026 | Runtime Defense, Red-Teaming, Tool-Using Agents, Safety Evaluation |
+| [Grounding Generative Planners in Verifiable Logic: A Hybrid Architecture for Trustworthy Embodied AI](https://openreview.net/forum?id=wb05ver1k8) | ICLR | 2026 | Embodied Agents, Formal Methods, Guardrails, Runtime Defense |
+| [ImpossibleBench: Measuring LLMs' Propensity of Exploiting Test Cases](https://openreview.net/forum?id=SeO4vyAj7E) | ICLR | 2026 | Benchmark, Code Agents, Safety Evaluation, Red-Teaming |
+| [ManagerBench: Evaluating the Safety-Pragmatism Trade-off in Autonomous LLMs](https://openreview.net/forum?id=KsmTaPygR9) | ICLR | 2026 | Benchmark, Safety Evaluation, Tool-Using Agents |
+| [Measuring Physical-World Privacy Awareness of Large Language Models: An Evaluation Benchmark](https://openreview.net/forum?id=WSpDZVEGNi) | ICLR | 2026 | Benchmark, Embodied Agents, Privacy, Contextual Privacy |
+| [PropensityBench: Evaluating Latent Safety Risks in Large Language Models via an Agentic Approach](https://openreview.net/forum?id=jOTQupHx7q) | ICLR | 2026 | Benchmark, Safety Evaluation, Tool-Using Agents, Red-Teaming |
+| [When Agents “Misremember” Collectively: Exploring the Mandela Effect in LLM-based Multi-Agent Systems](https://openreview.net/forum?id=yIoMqDes7O) | ICLR | 2026 | Multi-Agent Systems, Memory Security, Benchmark, Defense |
+| [Aligned Agents, Biased Swarm: Measuring Bias Amplification in Multi-Agent Systems](https://openreview.net/forum?id=mo7u21GoQv) | ICLR | 2026 | Multi-Agent Systems, Emergent Multi-Agent Risks, Benchmark, Safety Evaluation |
+| [HackWorld: Evaluating Computer-Use Agents on Exploiting Web Application Vulnerabilities](https://openreview.net/forum?id=nLfZPoJbO7) | ICLR | 2026 | Benchmark, OS Agents, Red-Teaming, Safety Evaluation |
+| [LH-DECEPTION: Simulating and Understanding LLM Deceptive Behaviors in Long-Horizon Interactions](https://openreview.net/forum?id=2r10vpYiti) | ICLR | 2026 | Multi-Agent Systems, Safety Evaluation, Benchmark, Emergent Multi-Agent Risks |
+| [Measuring and Mitigating Rapport Bias of Large Language Models under Multi-Agent Social Interactions](https://openreview.net/forum?id=gF31wuYdk7) | ICLR | 2026 | Multi-Agent Systems, Benchmark, Adversarial Robustness, Safety Evaluation |
+| [PACEbench: A Framework for Evaluating Practical AI Cyber-Exploitation Capabilities](https://openreview.net/forum?id=kGEuZXaXU6) | ICLR | 2026 | Benchmark, Safety Evaluation, Red-Teaming, Tool-Using Agents |
 | ["Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills in the Wild](https://www.usenix.org/conference/usenixsecurity26/presentation/liu-yi) | USENIX | 2026 | Supply Chain Security, Code Agents, Tool-Using Agents, Threat Modeling |
 | [AttriGuard: Defeating Indirect Prompt Injection in LLM Agents via Causal Attribution of Tool Invocations](https://www.usenix.org/conference/usenixsecurity26/presentation/he-yu) | USENIX | 2026 | Prompt Injection, Runtime Defense, Tool-Using Agents, Defense |
 | [FragFuse: Bypassing Access Control of Large Language Model Agents via Memory-Based Query Fragmentation and Fusion](https://www.usenix.org/conference/usenixsecurity26/presentation/rao) | USENIX | 2026 | Memory Security, Tool-Using Agents, Red-Teaming, Jailbreaking |
