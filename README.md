@@ -521,4 +521,20 @@ This repo covers (but is not limited to):
 | [HarmBench: A Standardized Evaluation Framework for Automated Red Teaming](https://openreview.net/forum?id=5NDSSI28nI) | ICML | 2024 | Red Teaming, Safety Evaluation, Jailbreaking, Standardized Benchmark |
 | [LM Agents May Fail to Act on Their Own Risk Knowledge](https://arxiv.org/abs/2508.13465) | arXiv | 2025 | Agent Safety, Risk Awareness Gap, Knowledge-Execution Gap, LLM Agents |
 | [Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs](https://arxiv.org/abs/2307.10490) | arXiv | 2023 | Multimodal Agents, Indirect Injection, Image-Based Attack, Sound-Based Attack |
+| [A2ABreak: Systematic Security Analysis of the A2A Protocol](https://arxiv.org/abs/2609.10871) | arXiv | 2026 | Multi-Agent Systems, Communication-Plane, Threat Modeling, Supply Chain Security |
+| [Beyond the Mandate: A Systematic Security Analysis of the Agent Payments Protocol (AP2)](https://arxiv.org/abs/2608.23858) | arXiv | 2026 | Tool-Using Agents, Threat Modeling, Supply Chain Security, Governance |
+| [Can CaMeLs Talk? Securing Multi-Agent Systems Against Indirect Prompt Injection Attacks](https://arxiv.org/abs/2610.05640) | arXiv | 2026 | Multi-Agent Systems, Prompt Injection, Defense, Formal Methods |
+| [Self-Propagating Misalignment in LLM Agents, and Why Auditing or Disabling Memory Is Not Enough](https://arxiv.org/abs/2610.04083) | arXiv | 2026 | Memory Security, Safety Evaluation, Threat Modeling, Tool-Using Agents |
+| [SoK: PIAtlas: Decomposing the Unbounded Prompt Injection Attack Space](https://arxiv.org/abs/2610.24999) | arXiv | 2026 | Survey, Prompt Injection, Threat Modeling, Benchmark |
+| [SoK: When Safe Agents Fail Together: The Security of Multi Agent LLM Systems](https://arxiv.org/abs/2609.00595) | arXiv | 2026 | Survey, Multi-Agent Systems, Threat Modeling, Defense |
+| [SPIDES: Information-Flow Control for Browser Agents](https://arxiv.org/abs/2610.24277) | arXiv | 2026 | Web Agents, Formal Methods, Runtime Defense, Defense |
+| [RATION: Towards Quantitative Risk-Based Access Control for AI Agents](https://arxiv.org/abs/2610.24311) | arXiv | 2026 | Tool-Using Agents, Runtime Defense, Prompt Injection, Governance |
+| [MemForm: Benchmarking Memory Formation Poisoning in LLM Agents](https://arxiv.org/abs/2610.14431) | arXiv | 2026 | Memory Security, Benchmark, Knowledge Poisoning, Tool-Using Agents |
+| [ToolFence: Fine-Grained Authorization for Secure Tool-Using LLM Agents](https://arxiv.org/abs/2609.37196) | arXiv | 2026 | Tool-Using Agents, Runtime Defense, Prompt Injection, Defense |
+| [Agent Name Collision Attacks in Multi-Agent Systems](https://arxiv.org/abs/2609.27624) | arXiv | 2026 | Multi-Agent Systems, Communication-Plane, Threat Modeling, Red-Teaming |
+| [The Window Is in the Reasoning: When LLM Agents Decide to Follow Prompt Injections](https://arxiv.org/abs/2610.24048) | arXiv | 2026 | Prompt Injection, Tool-Using Agents, Safety Evaluation, Red-Teaming |
+| [From Approval to Abuse: Privilege Escalation Attacks on Harness-Protected Coding Agents](https://arxiv.org/abs/2610.22987) | arXiv | 2026 | Code Agents, Red-Teaming, Threat Modeling, Tool-Using Agents |
+| [Zero-Trust Authorization and Discovery for Enterprise MCP](https://arxiv.org/abs/2609.22573) | arXiv | 2026 | MCP, Guardrails, Governance, Defense |
+| [Security of Foundation-Model-Powered Embodied Agents: Attack Surfaces, Attacks, Defenses, and Evaluation](https://arxiv.org/abs/2608.16843) | arXiv | 2026 | Survey, Embodied Agents, Threat Modeling, Defense |
+| [Invisible in Space, Visible in Time: Motion Vision CAPTCHA against GUI Agents](https://arxiv.org/abs/2609.27461) | arXiv | 2026 | Web Agents, OS Agents, Defense, Adversarial Robustness |
 
