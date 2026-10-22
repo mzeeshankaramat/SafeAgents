@@ -403,8 +403,8 @@ This repo covers (but is not limited to):
 | [Position: Trustworthy AI Agents Require the Integration of Large Language Models and Formal Methods](https://openreview.net/forum?id=wkisIZbntD) | ICML | 2025 | Trustworthy AI Agents, Formal Methods, LLMs |
 | [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/pdf/2401.10019) | EMNLP | 2024 | LLM Agent, Privacy, Search, AI Risk |
 | [AGENTPOISON: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases](https://openreview.net/forum?id=Y841BRW9rY) | NeurIPS | 2024 | Red-Teaming, Memory Poisoning, Knowledge Base Poisoning, LLM Agents |
-| [Attractive Metadata Attack: Inducing LLM Agents to Invoke Malicious Tools](https://openreview.net/pdf?id=oLGtPYdRzU) | NeurIPS | 2025 | Attractive Metadata Attack, Tool Metadata Manipulation, LLM Agent Security |
-| [AGENTDAM: Privacy Leakage Evaluation for Autonomous Web Agents](https://openreview.net/pdf?id=qaxf7q41aK) | NeurIPS | 2025 | Privacy Leakage, Autonomous Web Agents, Evaluation |
+| [Attractive Metadata Attack: Inducing LLM Agents to Invoke Malicious Tools](https://papers.neurips.cc/paper_files/paper/2025/hash/ee46288ab2aaf5c6e53aebebe719712c-Abstract-Conference.html) | NeurIPS | 2025 | Tool Metadata Manipulation, Malicious Tool Selection, LLM Agent Security |
+| [AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents](https://papers.neurips.cc/paper_files/paper/2025/hash/c9826b9ea5e1b49b256329934a578d83-Abstract-Datasets_and_Benchmarks_Track.html) | NeurIPS (Datasets and Benchmarks Track) | 2025 | Privacy Leakage, Autonomous Web Agents, Data Minimization, Benchmark |
 | [AgentAuditor: Human-Level Safety and Security Evaluation for LLM Agents](https://neurips.cc/virtual/2025/loc/san-diego/poster/120154) | NeurIPS | 2025 | Agent Safety, Agent Security, LLM-as-a-Judge |
 | [DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents](https://neurips.cc/virtual/2025/loc/san-diego/poster/116028) | NeurIPS | 2025 | LLM Agents, Defense, Prompt Injection, Injection Isolation |
 | [Information Retrieval Induced Safety Degradation in AI Agents](https://openreview.net/pdf?id=2hiNrfMmQ7) | NeurIPS | 2025 | Responsible AI, LLM Agents, Safety, Bias |
@@ -440,7 +440,7 @@ This repo covers (but is not limited to):
 | [Unveiling Privacy Risks in LLM Agent Memory](https://aclanthology.org/2025.acl-long.1227/) | ACL | 2025 | Memory Extraction, Privacy Risks, LLM Agents, Black-Box Attack |
 | [Ghost of the Past: Identifying and Resolving Privacy Leakage of LLM's Memory Through Proactive User Interaction](https://arxiv.org/abs/2410.14931) | arXiv | 2024 | Memory Privacy, LLM Agents, Privacy Leakage, User Interaction |
 | [RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications](https://arxiv.org/abs/2411.14110) | arXiv | 2024 | RAG, Data Extraction, Privacy, LLM Agents |
-| [PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/abs/2402.07867) | arXiv | 2024 | RAG, Knowledge Poisoning, LLM Security, Retrieval Attack |
+| [PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models](https://www.usenix.org/conference/usenixsecurity25/presentation/zou-poisonedrag) | USENIX Security | 2025 | RAG Security, Knowledge Poisoning, Retrieval Attack, LLM Security |
 | [Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via Model Context Protocol](https://openreview.net/forum?id=UVgbFuXPaO) | arXiv | 2025 | MCP, Prompt Injection, Data Exfiltration, Tool-Using Agents |
 | [Your AI, My Shell: Demystifying Prompt Injection Attacks on Agentic AI Coding Editors](https://arxiv.org/abs/2509.22040) | arXiv | 2025 | Prompt Injection, AI Coding Editors, Shell Execution, Agent Security |
 | [Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast](https://arxiv.org/abs/2402.08567) | ICML | 2024 | Infectious Jailbreak, Multimodal Agents, Multi-Agent Systems, Adversarial Images |
@@ -521,4 +521,7 @@ This repo covers (but is not limited to):
 | [HarmBench: A Standardized Evaluation Framework for Automated Red Teaming](https://openreview.net/forum?id=5NDSSI28nI) | ICML | 2024 | Red Teaming, Safety Evaluation, Jailbreaking, Standardized Benchmark |
 | [LM Agents May Fail to Act on Their Own Risk Knowledge](https://arxiv.org/abs/2508.13465) | arXiv | 2025 | Agent Safety, Risk Awareness Gap, Knowledge-Execution Gap, LLM Agents |
 | [Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs](https://arxiv.org/abs/2307.10490) | arXiv | 2023 | Multimodal Agents, Indirect Injection, Image-Based Attack, Sound-Based Attack |
+| [A Framework for Formalizing LLM Agent Security](https://arxiv.org/abs/2603.19469) | arXiv | 2026 | Agent Security, Threat Modeling, Contextual Security, Data Isolation |
+| [MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents](https://openreview.net/forum?id=irxxkFMrry) | ICLR | 2026 | MCP Security, Security Benchmark, Tool Protocol, Attack Evaluation |
+| [Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation](https://arxiv.org/abs/2606.10749) | arXiv | 2026 | Agent Security, Threat Modeling, Attack Surfaces, Defenses, Evaluation |
 
